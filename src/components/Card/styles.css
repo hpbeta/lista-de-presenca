@@ -1,0 +1,17 @@
+.card{
+    background:#645bbf;
+    height: 100px;
+    width: 50%;
+    color: #fff;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 24px;
+}
+
+.card:hover{
+    opacity: 0.9;
+}
+
