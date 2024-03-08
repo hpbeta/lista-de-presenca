@@ -1,8 +1,39 @@
-# React + Vite
+# Lista de Presença
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este projeto é uma aplicação simpels de  lista de presença, destinada a facilitar o registro de presença em um evento,  em que seja necessário acompanhar quem está presente.
 
-Currently, two official plugins are available:
+<img src="./tela.gif" alt="Gif da tela inicial">
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tecnologias utilizadas
+
+- HTML
+- CSS
+- JS
+- REACT
+
+# Como utilizar
+
+Clone o projeto
+```
+git clone https://github.com/hpbeta/lista-de-presenca
+```
+Acesse a pasta do projeto
+```
+cd lista-de-presenca
+```
+
+No seu terminal execute o seguinte comando para instalar as dependências
+```
+npm install
+```
+
+Finalmente inicie a aplicação com o seguinte comando
+```
+npm start
+```
+
+
+
+
+
+
